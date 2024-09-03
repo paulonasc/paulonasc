@@ -1,6 +1,6 @@
 Hey, I’m Paulo Nascimento @paulonasc
 - 📍 Based in Seattle, WA
-- 🎓 B.S. in Computer Science from the University of Washington. Class of 2023.
+- 🎓 B.S. in Computer Science from the University of Washington.
 
 Passionate entrepreneur & engineer who loves building products at scale.
 Building in AI & data.
