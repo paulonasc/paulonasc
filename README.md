@@ -1,4 +1,5 @@
 Hey, I’m Paulo Nascimento @paulonasc
+- 🧡 YC Founder @ The Hog
 - 📍 Based in Seattle, WA
 - 🎓 B.S. in Computer Science from the University of Washington.
 
