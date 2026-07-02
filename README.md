@@ -1,5 +1,6 @@
 Hey, I’m Paulo Nascimento @paulonasc
-- 🧡 YC Founder @ The Hog
+- building
+- prev YC founder, founding AI @ Ravenna AI ($15m seed), applied ai @ auth0/okta 
 - 📍 Based in Seattle, WA
 - 🎓 B.S. in Computer Science from the University of Washington.
 
